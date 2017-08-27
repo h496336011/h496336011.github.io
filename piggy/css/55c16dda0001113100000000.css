@@ -310,7 +310,7 @@
 }
 
 .logo {
-    width: 450px;
+    width: 550px;
     height: 81px;
     /*background-image: url(../images/55ade2110001708401850081.png);*/
     font-family:微软雅黑;
@@ -319,7 +319,7 @@
     z-index: 999999;
     position: absolute;
     left: 10%;
-    margin-left: -92.5px;
+    margin-left: -120px;
     top: 30px;
     display: none
 }
